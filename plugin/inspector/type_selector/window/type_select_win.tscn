@@ -1,8 +1,8 @@
 [gd_scene load_steps=80 format=3 uid="uid://olqgnh0d2kg2"]
 
-[ext_resource type="Script" uid="uid://dpasw8tpah3x4" path="res://addons/ggs/plugin/inspector/type_selector/window/type_select_win.gd" id="1_5c22w"]
+[ext_resource type="Script" uid="uid://bwti0p8yu3cce" path="res://addons/ggs/plugin/inspector/type_selector/window/type_select_win.gd" id="1_5c22w"]
 [ext_resource type="Texture2D" uid="uid://dbervsl0o0ifw" path="res://addons/ggs/plugin/assets/search.svg" id="2_ukygr"]
-[ext_resource type="Script" uid="uid://dnyorkwagw60h" path="res://addons/ggs/plugin/inspector/type_selector/window/type_list.gd" id="2_v8p48"]
+[ext_resource type="Script" uid="uid://oyn0171gknf5" path="res://addons/ggs/plugin/inspector/type_selector/window/type_list.gd" id="2_v8p48"]
 
 [sub_resource type="Image" id="Image_k4bdj"]
 data = {

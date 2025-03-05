@@ -30,6 +30,7 @@ func _ready() -> void:
 
 func get_selected_item_idx() -> int:
 	var selected_items: PackedInt32Array = List.get_selected_items()
+	print(selected_items)
 	var item_idx: int = 0
 
 	if List.item_count > 1:
